@@ -2,11 +2,11 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
  xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>shaved-bieber@gleuch.com</em:id>
-    <em:name>Shaved Bieber</em:name>
+    <em:id>hairy-bieber@hackcollege.com</em:id>
+    <em:name>Hairy Bieber</em:name>
     <em:version>1.0b</em:version>
-    <em:creator>Greg Leuch</em:creator>
-    <em:description>Bookmarklet, Firefox extension, and inline code to clean up those lower regions of websites from Bieber mentions.</em:description>
+    <em:creator>Kelly Sutton</em:creator>
+    <em:description>Bookmarklet, Firefox extension, and inline code to make the Web a friendly place: by injecting more BIEBER.</em:description>
     <em:homepageURL>http://www.gleuch.com</em:homepageURL>
     <em:targetApplication>
       <Description>

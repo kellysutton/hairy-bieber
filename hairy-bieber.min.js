@@ -1,9 +1,11 @@
 /*
-  SHAVED BIEBER
-  Bookmarklet, Firefox extension, and inline code to clean up those lower regions
-  of websites from Bieber mentions.
+  HAIRY BIEBER
+  Bookmarklet, Firefox extension, and inline code to make the Web a friendly place:
+  by injecting more BIEBER.
 
-  by Greg Leuch <http://www.gleuch.com>
+  by Kelly Sutton <http://michaelkellysutton.com
+
+  Original by Greg Leuch <http://www.gleuch.com>
 
   MIT License - http://creativecommons.org/licenses/MIT
 

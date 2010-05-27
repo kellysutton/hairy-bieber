@@ -1,8 +1,9 @@
-h1. SHAVED BIEBER
+h1. HAIRY BIEBER
 
-Bookmarklet, Firefox Add-on, and inline code to clean up those lower regions of websites from Bieber mentions.
+Bookmarklet, Firefox extension, and inline code to make the Web a friendly place:
+by injecting more BIEBER.
 
-by Greg Leuch ("@gleuch":http://twitter.com/gleuch | "http://www.gleuch.com":http://www.gleuch.com)
+by Kelly Sutton ("@kellysutton":http://twitter.com/kellysutton | "http://michaelkellysutton.com":http://michaelkellysutton.com)
 
 
 h2. INSTALL
@@ -10,18 +11,19 @@ h2. INSTALL
 You have four options:
 
 # *Install the Bookmarklet*
-** Copy the code in shaved-bieber.bookmarklet and add to your favorites.
-** Or, visit "fffff.at/shaved-bieber":http://fffff.at/shaved-bieber for easy one-step link adding.
+** Copy the code in hairy-bieber.bookmarklet and add to your favorites.
+** Or, visit "fffff.at/hairy-bieber":http://fffff.at/hairy-bieber for easy one-step link adding.
 # *Install the Firefox Add-on*
 ** Download the Add-on: "http://assets.gleuch.com/projects/shaved-bieber/master.xpi":http://assets.gleuch.com/projects/shaved-bieber/master.xpi
-# Add the shaved-bieber.min.js as a new Greasemonkey script
-# Add shaved-bieber.min.js in a &lt;script&gt; tag on your web page.
+# Add the hairy-bieber.min.js as a new Greasemonkey script
+# Add hairy-bieber.min.js in a &lt;script&gt; tag on your web page.
 
 Enjoy!
 
 
 h2. CREDITS
 
+Original "SHAVED BIEBER":http://fffff.at/shaved-bieber by "Greg Leuch":http://www.gleuch.com
 Based on the "Ctrl+F'd project":http://github.com/gleuch/ctrl-f-d by "Greg Leuch":http://www.gleuch.com.
 Inspiration from "Nick Bilton":http://twitter.com/nickbilton and "Chris Menning":http://twitter.com/straythenomad.
 Special thanks to "Jamie Wilkinson":http://jamiedubs.com for advice and testing.
