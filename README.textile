@@ -13,8 +13,8 @@ You have four options:
 # *Install the Bookmarklet*
 ** Copy the code in hairy-bieber.bookmarklet and add to your favorites.
 ** Or, visit "michaelkellysutton.com/hairy-bieber":http://michaelkellysutton.com/hairy-bieber for easy one-step link adding.
-<del># *Install the Firefox Add-on*
-** Download the Add-on: http://s3.amazonaws.com/kellysutton/hairy-bieber.xpi</del>
+# <del>*Install the Firefox Add-on*</del>
+** <del>Download the Add-on: http://s3.amazonaws.com/kellysutton/hairy-bieber.xpi</del>
 # Add the hairy-bieber.min.js as a new Greasemonkey script
 # Add hairy-bieber.min.js in a &lt;script&gt; tag on your web page.
 
