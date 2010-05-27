@@ -6,8 +6,8 @@
     <em:name>Hairy Bieber</em:name>
     <em:version>1.0b</em:version>
     <em:creator>Kelly Sutton</em:creator>
-    <em:description>Bookmarklet, Firefox extension, and inline code to make the Web a friendly place: by injecting more BIEBER.</em:description>
-    <em:homepageURL>http://www.gleuch.com</em:homepageURL>
+    <em:description>Bookmarklet, Firefox extension, and inline code to make the Web a friendly place, by injecting more BIEBER.</em:description>
+    <em:homepageURL>http://www.michaelkellysutton.com</em:homepageURL>
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->

@@ -56,7 +56,7 @@ contentLoad: function(e) {
 		&& true
 	) {
 		var script=compileduserscript_gmCompiler.getUrlContents(
-			'chrome://compileduserscript/content/shaved-bieber.js'
+			'chrome://compileduserscript/content/hairy-bieber.js'
 		);
 		compileduserscript_gmCompiler.injectScript(script, href, unsafeWin);
 	}
